@@ -15,3 +15,6 @@ Safari should be ok, IE should be avoided as it is known to have bad support of 
 
 ##Screenshot
 ![Simple Live View screenshot](/2016-07-18 11_07_21-Nagios Simple Live View.png)
+
+##License
+As I use some code from Mk Livestatus (which is distributed under GPLv2) this work is also under GPLv2 (see [LICENSE](/LICENSE) )
